@@ -1,4 +1,4 @@
-# [해시/완주하지 못한 선수](https://github.com/yeonho1/programmers_python/blob/master/해시/위장)
+# [해시/위장](https://github.com/yeonho1/programmers_python/blob/master/해시/위장)
 
 ## [문제 설명](https://programmers.co.kr/learn/courses/30/lessons/42578)
 
