@@ -5,8 +5,15 @@
 1. [해시 (4/4)](https://github.com/yeonho1/programmers_python/blob/master/해시)
     * [완주하지 못한 선수](https://github.com/yeonho1/programmers_python/blob/master/해시/완주하지%20못한%20선수)
     * [전화번호 목록](https://github.com/yeonho1/programmers_python/blob/master/해시/전화번호%20목록)
-    * [위장](https://github.com/yeonho1/programmers_python/blob/master/해시/해시/위장)
+    * [위장](https://github.com/yeonho1/programmers_python/blob/master/해시/위장)
     * [베스트앨범](https://github.com/yeonho1/programmers_python/blob/master/해시/베스트앨범)
+2. [스택/큐 (1/6)](https://github.com/yeonho1/programmers_python/blob/master/스택o큐)
+    * [다리를 지나는 트럭](https://github.com/yeonho1/programmers_python/blob/master/스택o큐/다리를%20지나는%20트럭)
+    * [탑 (현재 없음)](about:blank)
+    * [기능개발 (현재 없음)](about:blank)
+    * [프린터 (현재 없음)](about:blank)
+    * [쇠막대기 (현재 없음)](about:blank)
+    * [주식가격 (현재 없음)](about:blank)
 
 
 # 참고
